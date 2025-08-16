@@ -36,10 +36,8 @@ I'm a final-year Software Engineering student specializing in full-stack develop
 
 ### Development Activity
 <div align="center" style="margin: 1rem 0">
-  <div style="display: flex; justify-content: center; gap: 0.5rem; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lana-mustafic&layout=compact&theme=default&hide_border=true&langs_count=5&size_weight=0.5&count_weight=0.5" alt="Top Languages" style="height: 120px;">
-    <img src="https://streak-stats.demolab.com/?user=lana-mustafic&theme=default&hide_border=true&fire=2563EB" alt="GitHub Streak" style="height: 120px;">
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lana-mustafic&layout=compact&hide_border=true&langs_count=5&title_color=000000&text_color=000000&bg_color=ffffff" alt="Top Languages" style="height: 140px; display: block; margin: 0 auto 0.5rem;">
+  <img src="https://streak-stats.demolab.com/?user=lana-mustafic&hide_border=true&stroke=000000&background=ffffff&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000" alt="GitHub Streak" style="height: 140px; display: block; margin: 0 auto;">
 </div>
 
 ---
