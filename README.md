@@ -9,38 +9,56 @@
 ---
 
 ### About Me
-I'm a final-year Software Engineering student specializing in full-stack development with a passion for creating data-driven solutions.
+I'm a final-year Software Engineering student specializing in full-stack development with a passion for creating data-driven solutions. My work focuses on building secure, scalable systems that solve practical problems.
 
 - **Currently:** Developing microservices with ASP.NET Core & Azure
-- **Learning:** Advanced Angular patterns and cloud architecture
-- **Interests:** Web development, data engineering, and system design
-- **Vision:** To engineer software solutions that are both powerful and intuitive
+- **Learning:** Data analysis with Python/pandas and Jupyter Notebooks
+- **Interests:** Cybersecurity, full-stack systems, and developer tooling
+- **Vision:** To engineer software solutions that are both powerful and intuitive, making technology work seamlessly for people
 
 ---
 
 ### Technical Proficiencies
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
 ### Featured Projects
 
-| Project | Tech Stack | Description |
-|---------|------------|-------------|
-| Phishing Study | Python, Jupyter | Cybersecurity research experiment |
-| eHospital | .NET 6, Angular | Hospital management platform |
-| Task Manager | ASP.NET Core, Docker | Microservice productivity app |
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[Phishing Awareness Study](#)** | Self-designed cybersecurity research experiment | Python, pandas, Jupyter |
+| **[eHospital System](#)** | Hospital management platform (sample project) | .NET 6, Angular, SQL Server |
+| **[Data Analysis Toolkit](#)** | Python scripts for processing experiment data | Python, pandas, Matplotlib |
+| **[Cloud Task Manager](#)** | Microservice-based productivity app | ASP.NET Core, Azure, Docker |
 
 ---
 
-### Development Metrics
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lana-mustafic&layout=compact&hide_border=true&title_color=2563EB&text_color=000000&bg_color=ffffff" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=lana-mustafic&stroke=000000&background=ffffff&currStreakNum=2563EB&sideNums=000000&currStreakLabel=2563EB&sideLabels=000000&fire=2563EB" />
+### Development Activity
+<div align="center" style="margin: 1rem 0">
+  <div style="display: flex; justify-content: center; gap: 0.5rem; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lana-mustafic&layout=compact&theme=default&hide_border=true&langs_count=5&size_weight=0.5&count_weight=0.5" alt="Top Languages" style="height: 120px;">
+    <img src="https://streak-stats.demolab.com/?user=lana-mustafic&theme=default&hide_border=true&fire=2563EB" alt="GitHub Streak" style="height: 120px;">
+  </div>
 </div>
 
 ---
 
 ### Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lana-mustafic)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:llanamustafic@gmail.com)
+Always open to discussing technology, collaborations, or new opportunities.
+
+<div align="center" style="margin-top: 1rem;">
+  <a href="https://linkedin.com/in/lana-mustafic" style="margin: 0 8px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="24">
+  </a>
+  <a href="mailto:llanamustafic@gmail.com" style="margin: 0 8px;">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="24">
+  </a>
+  <a href="https://lana-mustafic.github.io" style="margin: 0 8px;">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" height="24">
+  </a>
+</div>
+
+<p align="center" style="margin-top: 1rem;">
+  <img src="https://komarev.com/ghpvc/?username=lana-mustafic&label=Profile%20Views&color=2563EB&style=flat" alt="Profile Views" height="20">
+</p>
