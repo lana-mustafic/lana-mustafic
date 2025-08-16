@@ -1,11 +1,10 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=1000&color=5C6BC0&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=90&lines=Hi%2C+I'm+Lana+Mustafic;.NET+%26+Angular+Developer+%7C+Data+Analyst+%7C+Healthcare+Innovator" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=700&size=32&duration=2800&pause=1000&color=2563EB&center=true&vCenter=true&width=800&height=100&lines=Hello%2C+I'm+Lana+Mustafic;Aspiring+Full-Stack+Developer" alt="Typing SVG" />
   </a>
 </p>
 
-
-<h3 align="center">🚀 Building solutions that bridge technology and real-world impact</h3>
+<h3 align="center">🔷 Transforming ideas into robust digital solutions</h3>
 
 ---
 
@@ -58,7 +57,7 @@ I'm a **final-year Software Engineering student** specializing in full-stack dev
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lana-mustafic&layout=compact&theme=algolia&hide_border=true&langs_count=6)
   
-  ![Streak Stats](https://streak-stats.demolab.com/?user=lana-mustafic&theme=algolia&fire=5C6BC0)
+  ![Streak Stats](https://streak-stats.demolab.com/?user=lana-mustafic&theme=algolia&fire=2563EB)
 </div>
 
 ---
@@ -68,8 +67,8 @@ Always open to discussing technology, collaborations, or new opportunities!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lana-mustafic)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:llanamustafic@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lana-mustafic)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lana-mustafic.github.io)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lana-mustafic&label=Profile%20Views&color=5C6BC0&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=lana-mustafic&label=Profile%20Views&color=2563EB&style=flat" alt="Profile Views" />
 </p>
