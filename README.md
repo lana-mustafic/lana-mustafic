@@ -54,14 +54,14 @@ I enjoy working with **.NET, Angular, SQL, and Python**, and I’m constantly im
 
 ## GitHub Stats  
 
-![Lana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)  
+![Lana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lana-mustafic&show_icons=true&theme=default)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lana-mustafic&layout=compact&theme=default)  
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=default)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=lana-mustafic&theme=default)  
 
 ---
 
 ## Contact
 - LinkedIn: [Your Profile](#)  
-- Email: lana.mustafic@example.com  
+- Email: llanamustafic@gmail.com 
