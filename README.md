@@ -1,51 +1,41 @@
 <p align="center">
-  <a href="https://github.com/lana-mustafic">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=4F46E5&center=true&width=800&lines=Hi+there%2C+I'm+Lana+Mustafic;Aspiring+Full-Stack+Developer&v=3" alt="Typing Animation">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=1000&color=5C6BC0&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=90&lines=Hi%2C+I'm+Lana+Mustafic;.NET+%26+Angular+Developer+%7C+Data+Analyst+%7C+Healthcare+Innovator" alt="Typing SVG" />
   </a>
 </p>
 
-<h3 align="center">🚀 Building scalable solutions with modern architectures</h3>
+
+<h3 align="center">🚀 Building solutions that bridge technology and real-world impact</h3>
 
 ---
 
 ### 👩‍💻 About Me
-I'm a **final-year Software Engineering student** specializing in full-stack development with expertise across multiple technical domains. My work focuses on creating efficient, maintainable systems with strong architectural foundations.
+I'm a **final-year Software Engineering student** specializing in full-stack development with a passion for creating data-driven solutions. My work focuses on building secure, scalable systems that solve practical problems.
 
 - 🔭 **Currently:** Developing microservices with **ASP.NET Core & Azure**
-- 🌱 **Learning:** Advanced cloud patterns and data science with **Python/pandas**
-- 💡 **Interests:** Full-stack systems, data engineering, and developer tooling
-- 🎯 **Vision:** To build technology that solves real-world healthcare challenges
+- 🌱 **Learning:** Data analysis with **Python/pandas** and Jupyter Notebooks
+- 💡 **Interests:** Cybersecurity, healthcare tech, and developer tooling
+- 🎯 **Vision:** To build technology that improves healthcare accessibility
 
 ---
 
 ### 🛠️ Technical Proficiencies
 
 **Core Languages**  
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 **Frameworks & Platforms**  
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-
-**Data & Cloud**  
-![SQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Data Science & Tools**  
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-**Frontend & Tools**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -55,10 +45,10 @@ I'm a **final-year Software Engineering student** specializing in full-stack dev
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[eHospital](#)** | Hospital management system with patient/provider portals | .NET 6, Angular, SQL Server |
-| **[DataAnalyzer](#)** | Python data processing dashboard with Jupyter | pandas, matplotlib, Azure |
-| **[CloudTask API](#)** | Microservice task management system | ASP.NET Core, Docker, Azure AD |
-| **[IoT Dashboard](#)** | Real-time sensor monitoring | React, Firebase, Python |
+| **[Phishing Awareness Study](#)** | Self-designed cybersecurity research experiment | Python, pandas, Jupyter |
+| **[eHospital System](#)** | Hospital management platform with patient portals | .NET 6, Angular, SQL Server |
+| **[Data Analysis Toolkit](#)** | Python scripts for processing experiment data | Python, pandas, Matplotlib |
+| **[Cloud Task Manager](#)** | Microservice-based productivity app | ASP.NET Core, Azure, Docker |
 
 ---
 
@@ -76,7 +66,7 @@ I'm a **final-year Software Engineering student** specializing in full-stack dev
 ### 📬 Let's Connect
 Always open to discussing technology, collaborations, or new opportunities!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lanamustafic)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lana-mustafic)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:llanamustafic@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lana-mustafic)
 
