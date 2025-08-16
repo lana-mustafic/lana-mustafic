@@ -4,21 +4,21 @@
   </a>
 </p>
 
-<h3 align="center">🔷 Transforming ideas into robust digital solutions</h3>
+<h3 align="center">Transforming ideas into robust digital solutions</h3>
 
 ---
 
-### 👩‍💻 About Me
-I'm a **final-year Software Engineering student** specializing in full-stack development with a passion for creating data-driven solutions. My work focuses on building secure, scalable systems that solve practical problems.
+### About Me
+I'm a final-year Software Engineering student specializing in full-stack development with a passion for creating data-driven solutions. My work focuses on building secure, scalable systems that solve practical problems.
 
-- 🔭 **Currently:** Developing microservices with **ASP.NET Core & Azure**
-- 🌱 **Learning:** Data analysis with **Python/pandas** and Jupyter Notebooks
-- 💡 **Interests:** Cybersecurity, healthcare tech, and developer tooling
-- 🎯 **Vision:** To build technology that improves healthcare accessibility
+- **Currently:** Developing microservices with ASP.NET Core & Azure
+- **Learning:** Data analysis with Python/pandas and Jupyter Notebooks
+- **Interests:** Cybersecurity, healthcare tech, and developer tooling
+- **Vision:** To build technology that improves healthcare accessibility
 
 ---
 
-### 🛠️ Technical Proficiencies
+### Technical Proficiencies
 
 **Core Languages**  
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -40,7 +40,7 @@ I'm a **final-year Software Engineering student** specializing in full-stack dev
 
 ---
 
-### 🏆 Featured Projects
+### Featured Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
@@ -51,24 +51,32 @@ I'm a **final-year Software Engineering student** specializing in full-stack dev
 
 ---
 
-### 📊 Development Activity
+### Development Activity
 
-<div align="center">
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lana-mustafic&layout=compact&theme=algolia&hide_border=true&langs_count=6)
-  
-  ![Streak Stats](https://streak-stats.demolab.com/?user=lana-mustafic&theme=algolia&fire=2563EB)
+<div align="center" style="margin: 2rem 0">
+  <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lana-mustafic&layout=compact&theme=algolia&hide_border=true&langs_count=6" alt="Top Languages" style="max-width: 400px; width: 100%;">
+    <img src="https://streak-stats.demolab.com/?user=lana-mustafic&theme=algolia&fire=2563EB" alt="GitHub Streak" style="max-width: 400px; width: 100%;">
+  </div>
 </div>
 
 ---
 
-### 📬 Let's Connect
-Always open to discussing technology, collaborations, or new opportunities!
+### Let's Connect
+Always open to discussing technology, collaborations, or new opportunities.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lana-mustafic)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:llanamustafic@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lana-mustafic.github.io)
+<div align="center" style="margin-top: 1.5rem;">
+  <a href="https://linkedin.com/in/lana-mustafic" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:llanamustafic@gmail.com" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://lana-mustafic.github.io" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lana-mustafic&label=Profile%20Views&color=2563EB&style=flat" alt="Profile Views" />
+<p align="center" style="margin-top: 1.5rem;">
+  <img src="https://komarev.com/ghpvc/?username=lana-mustafic&label=Profile%20Views&color=2563EB&style=flat" alt="Profile Views">
 </p>
