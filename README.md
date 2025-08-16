@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=1000&color=5C6BC0&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=90&lines=Hi%2C+I'm+Lana+Mustafić;Software+Engineer+%7C+Full-Stack+.NET+Developer+%7C+Cloud+Enthusiast" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=5C6BC0&center=true&width=800&lines=Hi,+I'm+Lana+Mustafic;Aspiring+Full-Stack+Developer" alt="Typing Animation" />
 </p>
 
 <h3 align="center">🚀 Building scalable solutions with modern architectures</h3>
