@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=800&color=2D3748&center=true&vCenter=true&width=800&height=70&lines=Hi+there👋,+I'm+Lana+Mustafic;Professional+Full-Stack+.NET+Developer" alt="Typing Animation" />
+  <a href="https://github.com/lana-mustafic">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=4F46E5&center=true&width=800&lines=Hi+there%2C+I'm+Lana+Mustafic;Aspiring+Full-Stack+Developer&v=3" alt="Typing Animation">
+  </a>
 </p>
 
 <h3 align="center">🚀 Building scalable solutions with modern architectures</h3>
