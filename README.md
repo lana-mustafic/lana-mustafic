@@ -31,16 +31,6 @@ def solve_problem():
 
 ### 🛠️ Tech Stack
 
-### 🛠️ Tech Stack
-
-#### 🔹 Core Competencies
-- **C#/.NET** ![90%](https://progress-bar.dev/90?width=200&color=blue)  
-- **Angular** ![85%](https://progress-bar.dev/85?width=200&color=orange)  
-- **Azure** ![80%](https://progress-bar.dev/80?width=200&color=0089D6)  
-- **Python/Data** ![75%](https://progress-bar.dev/75?width=200&color=yellowgreen)  
-- **HTML/CSS** ![95%](https://progress-bar.dev/95?width=200&color=ff69b4)
-
-#### 🖇️ Full Toolkit
 <p align="center">
   <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="48" alt="C#" />
