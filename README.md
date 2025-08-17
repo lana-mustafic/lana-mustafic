@@ -66,15 +66,36 @@ def solve_problem():
 
 ### 🏆 Featured Projects
 
-<div align="center">
-
-| Project Card | Details |
-|-------------|---------|
-| <div style="background-color: #f0f8ff; padding: 15px; border-radius: 10px; border-left: 5px solid #0A66C2;"> <h3>🔍 Phishing Awareness Study</h3> <div style="display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0;"> <span style="background: #3572A5; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8em;">Python</span> <span style="background: #150458; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8em;">pandas</span> <span style="background: #F37626; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8em;">Jupyter</span> </div> </div> | ✅ Self-designed cybersecurity research experiment <br><br> 🎯 **Key Achievement:** Developed ML model with 85% detection accuracy <br><br> <a href="#project1">🔗 View Details</a> |
-| <div style="background-color: #f0fff0; padding: 15px; border-radius: 10px; border-left: 5px solid #00AA55;"> <h3>🏥 eHospital System</h3> <div style="display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0;"> <span style="background: #512BD4; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8em;">.NET 6</span> <span style="background: #DD0031; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8em;">Angular</span> <span style="background: #CC2927; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8em;">SQL Server</span> </div> </div> | ✅ Hospital management platform <br><br> 🎯 **Key Achievement:** Reduced admin tasks by 40% <br><br> <a href="#project2">🔗 View Details</a> |
-| <div style="background-color: #f0f0ff; padding: 15px; border-radius: 10px; border-left: 5px solid #8888FF;"> <h3>☁️ Cloud Task Manager</h3> <div style="display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0;"> <span style="background: #512BD4; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8em;">ASP.NET Core</span> <span style="background: #0078D4; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8em;">Azure</span> <span style="background: #2496ED; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8em;">Docker</span> </div> </div> | ✅ Microservice productivity app <br><br> 🎯 **Key Achievement:** 99.9% production uptime <br><br> <a href="#project3">🔗 View Details</a> |
-
+#### 🔍 Phishing Awareness Study
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" title="Python" hspace="5">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30" title="pandas" hspace="5">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="30" title="Jupyter" hspace="5">
 </div>
+✅ Self-designed cybersecurity research experiment  
+🎯 **Key Achievement:** 85% detection accuracy ML model
+
+---
+
+#### 🏥 eHospital System
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="30" title=".NET" hspace="5">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="30" title="Angular" hspace="5">
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="30" title="SQL Server" hspace="5">
+</div>
+✅ Hospital management platform  
+🎯 **Key Achievement:** 40% admin task reduction
+
+---
+
+#### ☁️ Cloud Task Manager
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="30" title="ASP.NET Core" hspace="5">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="30" title="Azure" hspace="5">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" title="Docker" hspace="5">
+</div>
+✅ Microservice productivity app  
+🎯 **Key Achievement:** 99.9% production uptime
 
 ---
 
