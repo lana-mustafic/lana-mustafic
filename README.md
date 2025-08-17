@@ -17,7 +17,6 @@
 + 🔍 Deep-diving into data analysis with Python/pandas/Jupyter
 + 🛡️ Passionate about cybersecurity and secure SDLC practices
 + 🚀 Building developer tools that save hours of repetitive work
-```
 ---
 ### 🛠️ Tech Stack
 
