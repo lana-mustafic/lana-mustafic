@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=700&size=32&duration=2800&pause=1000&color=000000&center=true&vCenter=true&width=800&height=100&lines=Hello%2C+I'm+Lana+Mustafic;Aspiring+Full-Stack+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=700&size=32&duration=2800&pause=1000&color=2E8B57&center=true&vCenter=true&width=800&height=100&lines=Hello%2C+I'm+Lana+Mustafic;Aspiring+Full-Stack+Developer" alt="Typing SVG" />
   </a>
 </p>
 
-<h3 align="center">⚡ Building innovative solutions through clean code and modern architecture</h3>
+<h3 align="center">Building innovative solutions through clean code and modern architecture</h3>
 
 ---
 
