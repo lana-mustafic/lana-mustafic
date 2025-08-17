@@ -32,10 +32,10 @@ def solve_problem():
 ## 🛠️ Tech Stack  
 
 ### 🔹 Core Competencies  
-- **C#/.NET** ![Progress](https://progress-bar.dev/90?width=200&color=blue)  
-- **Angular** ![Progress](https://progress-bar.dev/85?width=200&color=orange)  
-- **Azure** ![Progress](https://progress-bar.dev/80?width=200&color=0089D6)  
-- **Python/Data** ![Progress](https://progress-bar.dev/75?width=200&color=yellowgreen)  
+- **C#/.NET** ![90%](https://progress-bar.dev/90?width=200&color=blue)  
+- **Angular** ![85%](https://progress-bar.dev/85?width=200&color=orange)  
+- **Azure** ![80%](https://progress-bar.dev/80?width=200&color=0089D6)  
+- **Python/Data** ![75%](https://progress-bar.dev/75?width=200&color=yellowgreen) 
 
 ## 🖇️ Full Toolkit
 
@@ -65,6 +65,8 @@ def solve_problem():
 
 ## 🏆 Featured Projects
 
+### 🏆 Featured Projects
+
 <div align="center">
   <a href="#">
     <img src="https://via.placeholder.com/300x200/0088CC/FFFFFF?text=Phishing+Research" width="45%" alt="Phishing Study">
@@ -74,11 +76,13 @@ def solve_problem():
   </a>
 </div>
 
-| Project                  | Highlights                                      | Tech Used                     |
-|--------------------------|-------------------------------------------------|-------------------------------|
-| Phishing Awareness Study | Self-designed cybersecurity research experiment | Python, pandas, Jupyter       |
-| eHospital System         | Hospital management platform (sample project)   | .NET 6, Angular, SQL Server   |
-| Cloud Task Manager       | Microservice-based productivity app             | ASP.NET Core, Azure, Docker   |
+<br> <!-- Added space between images and table -->
+
+| Project | Highlights | Tech Used |
+|---------|------------|-----------|
+| **[Phishing Awareness Study](#)** | Self-designed cybersecurity research experiment | Python, pandas, Jupyter |
+| **[eHospital System](#)** | Hospital management platform (sample project) | .NET 6, Angular, SQL Server |
+| **[Cloud Task Manager](#)** | Microservice-based productivity app | ASP.NET Core, Azure, Docker |
 
 
 ---
