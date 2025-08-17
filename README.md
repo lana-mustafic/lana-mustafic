@@ -64,41 +64,6 @@ def solve_problem():
 
 ---
 
-### 🏆 Featured Projects
-
-#### 🔍 Phishing Awareness Study
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" title="Python" hspace="5">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30" title="pandas" hspace="5">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="30" title="Jupyter" hspace="5">
-</div>
-✅ Self-designed cybersecurity research experiment  
-🎯 **Key Achievement:** 85% detection accuracy ML model
-
----
-
-#### 🏥 eHospital System
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="30" title=".NET" hspace="5">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="30" title="Angular" hspace="5">
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="30" title="SQL Server" hspace="5">
-</div>
-✅ Hospital management platform  
-🎯 **Key Achievement:** 40% admin task reduction
-
----
-
-#### ☁️ Cloud Task Manager
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="30" title="ASP.NET Core" hspace="5">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="30" title="Azure" hspace="5">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" title="Docker" hspace="5">
-</div>
-✅ Microservice productivity app  
-🎯 **Key Achievement:** 99.9% production uptime
-
----
-
 ## 📈 Development Activity
 
 <div align="center" style="margin: 1rem 0">
