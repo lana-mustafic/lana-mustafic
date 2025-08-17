@@ -4,19 +4,19 @@
   </a>
 </p>
 
-<h3 align="center">Building innovative solutions through clean code and modern architecture</h3>
+<h3 align="center">⚡ Building innovative solutions through clean code and modern architecture</h3>
 
 ---
 
-### About Me
-I'm a final-year Software Engineering student specializing in full-stack development with a passion for creating data-driven solutions. My work focuses on building secure, scalable systems that solve practical problems.
+### 🧑‍💻 About Me
+> [!NOTE]
+> **Final-year Software Engineer** specializing in full-stack systems with security-first design principles.
 
-- **Currently:** Developing microservices with ASP.NET Core & Azure
-- **Learning:** Data analysis with Python/pandas and Jupyter Notebooks
-- **Interests:** Cybersecurity, full-stack systems, and developer tooling
-- **Vision:** To engineer software solutions that are both powerful and intuitive, making technology work seamlessly for people
-
----
+```diff
++ 🌐 Currently architecting cloud-native microservices in ASP.NET Core & Azure
++ 🔍 Deep-diving into data analysis with Python/pandas/Jupyter
++ 🛡️ Passionate about cybersecurity and secure SDLC practices
++ 🚀 Building developer tools that save hours of repetitive work
 
 ---
 
