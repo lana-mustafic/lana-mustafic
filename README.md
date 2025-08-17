@@ -75,8 +75,8 @@ Always open to discussing technology, collaborations, or new opportunities.
   </a>
   <a href="mailto:llanamustafic@gmail.com" style="margin: 0 8px;">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="24">
-  </a>
-  <a href="[https://lana-mustafic.github.io](https://lana-mustafic.github.io/portfolio/)" style="margin: 0 8px;">
+</a>
+  <a href="https://lana-mustafic.github.io/portfolio/" style="margin: 0 8px;">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" height="24">
   </a>
 </div>
