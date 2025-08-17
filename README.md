@@ -8,7 +8,7 @@
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 > [!NOTE]
 > **Final-year Software Engineering Student** specializing in full-stack systems with security-first design principles.
 
@@ -21,7 +21,7 @@
 
 ---
 
-# 💡 Coding Philosophy
+# Coding Philosophy
 
 ```python
 def solve_problem():
@@ -29,7 +29,7 @@ def solve_problem():
 ```
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="center">
   <!-- Languages -->
@@ -64,7 +64,7 @@ def solve_problem():
 
 ---
 
-## 📈 Development Activity
+## Development Activity
 
 <div align="center" style="margin: 1rem 0">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lana-mustafic&layout=compact&hide_border=true&langs_count=5&title_color=000000&text_color=000000&bg_color=ffffff" 
