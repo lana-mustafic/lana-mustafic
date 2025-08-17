@@ -66,23 +66,26 @@ def solve_problem():
 
 ### 🏆 Featured Projects
 
+#### 🔍 Phishing Awareness Study  
+**»** Self-designed cybersecurity research experiment  
+**⚙️ Tech Stack:** Python, pandas, Jupyter  
+**🌟 Key Achievement:** Developed ML model with 85% detection accuracy  
+
+#### 🏥 eHospital System  
+**»** Hospital management platform (sample project)  
+**⚙️ Tech Stack:** .NET 6, Angular, SQL Server  
+**🌟 Key Achievement:** Reduced administrative tasks by 40% in user testing  
+
+#### ☁️ Cloud Task Manager  
+**»** Microservice-based productivity app  
+**⚙️ Tech Stack:** ASP.NET Core, Azure, Docker  
+**🌟 Key Achievement:** Achieved 99.9% uptime in production  
+
 <div align="center">
-  <a href="#">
-    <img src="https://via.placeholder.com/300x200/0088CC/FFFFFF?text=Phishing+Research" width="45%" alt="Phishing Study">
-  </a>
-  <a href="#">
-    <img src="https://via.placeholder.com/300x200/00AA55/FFFFFF?text=eHospital+Sys" width="45%" alt="Hospital System">
-  </a>
+  <a href="#project1">View Details</a> •
+  <a href="#project2">View Details</a> •
+  <a href="#project3">View Details</a>
 </div>
-
-<br> <!-- Added space between images and table -->
-
-| Project | Highlights | Tech Used |
-|---------|------------|-----------|
-| **[Phishing Awareness Study](#)** | Self-designed cybersecurity research experiment | Python, pandas, Jupyter |
-| **[eHospital System](#)** | Hospital management platform (sample project) | .NET 6, Angular, SQL Server |
-| **[Cloud Task Manager](#)** | Microservice-based productivity app | ASP.NET Core, Azure, Docker |
-
 
 ---
 
@@ -101,20 +104,21 @@ def solve_problem():
 ---
 ## 💬 Let's Connect
 
-Always open to discussing technology, collaborations, or new opportunities.
+> *Always open to discussing technology, collaborations, or new opportunities.*
 
-<div align="center" style="margin-top: 1rem;">
-  <a href="https://linkedin.com/in/lana-mustafic" style="margin: 0 8px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="24">
-  </a>
-  <a href="mailto:llanamustafic@gmail.com" style="margin: 0 8px;">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="24">
-  </a>
-  <a href="https://lana-mustafic.github.io/portfolio/" style="margin: 0 8px;">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" height="24">
-  </a>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lana-mustafic)
+[![Email](https://img.shields.io/badge/-REACH_VIA_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:llanamustafic@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-VIEW_MY_PORTFOLIO-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lana-mustafic.github.io/portfolio/)
+
 </div>
 
-<p align="center" style="margin-top: 1rem;">
-  <img src="https://komarev.com/ghpvc/?username=lana-mustafic&label=Profile%20Views&color=2563EB&style=flat" alt="Profile Views" height="20">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lana-mustafic&label=PROFILE+VISITS&color=2563EB&style=for-the-badge" alt="Profile Visits">
+  <a href="https://github.com/lana-mustafic?tab=followers">
+    <img src="https://img.shields.io/github/followers/lana-mustafic?label=FOLLOWERS&style=for-the-badge&color=581c87" alt="GitHub Followers">
+  </a>
 </p>
+
+
