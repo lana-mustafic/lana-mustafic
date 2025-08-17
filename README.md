@@ -66,25 +66,14 @@ def solve_problem():
 
 ### 🏆 Featured Projects
 
-#### 🔍 Phishing Awareness Study  
-**»** Self-designed cybersecurity research experiment  
-**⚙️ Tech Stack:** Python, pandas, Jupyter  
-**🌟 Key Achievement:** Developed ML model with 85% detection accuracy  
-
-#### 🏥 eHospital System  
-**»** Hospital management platform (sample project)  
-**⚙️ Tech Stack:** .NET 6, Angular, SQL Server  
-**🌟 Key Achievement:** Reduced administrative tasks by 40% in user testing  
-
-#### ☁️ Cloud Task Manager  
-**»** Microservice-based productivity app  
-**⚙️ Tech Stack:** ASP.NET Core, Azure, Docker  
-**🌟 Key Achievement:** Achieved 99.9% uptime in production  
-
 <div align="center">
-  <a href="#project1">View Details</a> •
-  <a href="#project2">View Details</a> •
-  <a href="#project3">View Details</a>
+
+| Project Card | Details |
+|-------------|---------|
+| <div style="background-color: #f0f8ff; padding: 15px; border-radius: 10px; border-left: 5px solid #0A66C2;"> <h3>🔍 Phishing Awareness Study</h3> <div style="display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0;"> <span style="background: #3572A5; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8em;">Python</span> <span style="background: #150458; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8em;">pandas</span> <span style="background: #F37626; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8em;">Jupyter</span> </div> </div> | ✅ Self-designed cybersecurity research experiment <br><br> 🎯 **Key Achievement:** Developed ML model with 85% detection accuracy <br><br> <a href="#project1">🔗 View Details</a> |
+| <div style="background-color: #f0fff0; padding: 15px; border-radius: 10px; border-left: 5px solid #00AA55;"> <h3>🏥 eHospital System</h3> <div style="display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0;"> <span style="background: #512BD4; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8em;">.NET 6</span> <span style="background: #DD0031; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8em;">Angular</span> <span style="background: #CC2927; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8em;">SQL Server</span> </div> </div> | ✅ Hospital management platform <br><br> 🎯 **Key Achievement:** Reduced admin tasks by 40% <br><br> <a href="#project2">🔗 View Details</a> |
+| <div style="background-color: #f0f0ff; padding: 15px; border-radius: 10px; border-left: 5px solid #8888FF;"> <h3>☁️ Cloud Task Manager</h3> <div style="display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0;"> <span style="background: #512BD4; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8em;">ASP.NET Core</span> <span style="background: #0078D4; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8em;">Azure</span> <span style="background: #2496ED; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8em;">Docker</span> </div> </div> | ✅ Microservice productivity app <br><br> 🎯 **Key Achievement:** 99.9% production uptime <br><br> <a href="#project3">🔗 View Details</a> |
+
 </div>
 
 ---
