@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2200&pause=800&color=2E8B57&center=true&width=600&lines=Hi+there+👋,+I'm+Lana;Full-Stack+Developer" alt="Typing SVG">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=2E8B57&center=true&width=600&lines=Hi+there+👋,+I'm+Lana;Aspiring+Full-Stack+Developer" alt="Typing animation">
 </p>
 
 <p align="center">
@@ -20,24 +18,18 @@ def develop():
 ### 🛠️ Core Stack  
 
 **☁️ Cloud & Backend**  
-<img src="https://cdn.simpleicons.org/cplusplus/00599C" width="16" height="16" alt="C++"/> C++  
-<img src="https://cdn.simpleicons.org/csharp/512BD4" width="16" height="16" alt="C#"/> C#  
-<img src="https://cdn.simpleicons.org/dotnet/512BD4" width="16" height="16" alt=".NET"/> .NET  
-<img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="16" height="16" alt="Azure"/> Azure  
-<img src="https://cdn.simpleicons.org/nodedotjs/339933" width="16" height="16" alt="Node.js"/> Node.js  
-<img src="https://cdn.simpleicons.org/docker/2496ED" width="16" height="16" alt="Docker"/> Docker  
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus) ![C#](https://img.shields.io/badge/-C%23-512BD4?logo=csharp)  
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet) ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)  
 
 **🎨 Frontend**  
-<img src="https://cdn.simpleicons.org/html5/E34F26" width="16" height="16" alt="HTML5"/> HTML5  
-<img src="https://cdn.simpleicons.org/css3/1572B6" width="16" height="16" alt="CSS3"/> CSS3  
-<img src="https://cdn.simpleicons.org/react/61DAFB" width="16" height="16" alt="React"/> React  
-<img src="https://cdn.simpleicons.org/angular/DD0031" width="16" height="16" alt="Angular"/> Angular  
-<img src="https://cdn.simpleicons.org/typescript/3178C6" width="16" height="16" alt="TypeScript"/> TypeScript  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react) ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)  
 
 **📊 Data**  
-<img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="16" height="16" alt="SQL Server"/> SQL Server  
-<img src="https://cdn.simpleicons.org/pandas/150458" width="16" height="16" alt="Pandas"/> Pandas  
-<img src="https://cdn.simpleicons.org/jupyter/F37626" width="16" height="16" alt="Jupyter"/> Jupyter  
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoftsqlserver)  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter)  
 
 ### 📊 Activity  
 <div align="center">
