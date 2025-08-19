@@ -7,33 +7,35 @@ I'm a **4th Year Software Engineering Student** and an **Aspiring Full Stack Dev
 
 ---
 
-## 🚀 Technologies & Tools
+## 🛠️ Tech Stack
 
-**Backend & Core**
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-005C84?style=for-the-badge&logo=entity-framework&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-**Frontend & UI**
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**AI & Other Tools**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
+<p align="center">
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <br />
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <br />
+  <!-- Databases & Tools -->
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="MSSQL" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+</p>
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/lana-mustafic">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lana-mustafic&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+    <!-- GitHub Streak Stats -->
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lana-mustafic&theme=radical&hide_border=true&fire=DD2727&ring=DD2727&currStreakNum=FFFFFF&currStreakLabel=FFFFFF" />
+    <!-- Top Languages Card -->
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lana-mustafic&theme=radical&hide_border=true&layout=compact&langs_count=8&hide=procfile" />
   </a>
 </p>
@@ -55,7 +57,7 @@ I'm actively looking for opportunities to contribute to innovative projects, col
 
 *   🔍 **I’m looking for:** Full-time roles, Internships, or Collaborative projects in **Full-Stack Development**.
 *   📫 **How to reach me:** [Email](mailto:lana-mustafic@outlook.com) or [LinkedIn](https://linkedin.com/in/lana-mustafic)
-*   💼 **View my resume:** []
+*   💼 **View my resume:** [https://lana-mustafic.github.io/portfolio/]
 
 Let's connect and discuss how we can create impactful software together!
 
