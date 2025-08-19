@@ -1,4 +1,4 @@
-# Hi there, I'm Lana Mustafic 👋
+# Hi there, I'm Lana Mustafic 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-pink?style=for-the-badge&logo=linkedin&color=%23FFC2D1&logoColor=white)](https://linkedin.com/in/lana-mustafic)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-pink?style=for-the-badge&logo=gmail&color=%23FFC2D1&logoColor=white)](mailto:lana-mustafic@outlook.com)
