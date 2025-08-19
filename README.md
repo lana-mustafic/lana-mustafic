@@ -53,37 +53,16 @@ I'm a **4th Year Software Engineering Student** and an **Aspiring Full Stack Dev
 
 ## 🤝 Let's Build Something Amazing
 
-I'm actively looking for opportunities to contribute to innovative projects, collaborate with other developers, and kick-start my professional career in **Full-Stack Development**.
+I'm actively looking for opportunities to contribute to innovative projects, collaborate with other developers, and kick-start my professional career.
 
-<p align="center">
-  <!--- Links to what you're looking for -->
-  <a href="https://">
-    <img alt="Seeking Full-Time Roles" title="Full-Time Roles" src="https://img.shields.io/badge/-Full%20Time-8A2BE2?style=flat-square&logo=bookmark&logoColor=white"/>
-  </a>
-  ‎ ‎ ‎ ‎ ‎ <!--- This is a trick to add space -->
-  <a href="https://">
-    <img alt="Open to Internships" title="Internships" src="https://img.shields.io/badge/-Internships-FF69B4?style=flat-square&logo=graduation-cap&logoColor=white"/>
-  </a>
-  ‎ ‎ ‎ ‎ ‎
-  <a href="https://">
-    <img alt="Open to Collaboration" title="Collaborative Projects" src="https://img.shields.io/badge/-Collaborate-228B22?style=flat-square&logo=git&logoColor=white"/>
-  </a>
-  <br/>
-  <!--- Contact Links -->
-  <a href="mailto:lana-mustafic@outlook.com">
-    <img alt="Email Lana Mustafic" title="Email Me" src="https://img.shields.io/badge/Email-lana--mustafic@outlook.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  ‎ ‎ ‎ ‎ ‎
-  <a href="https://linkedin.com/in/lana-mustafic">
-    <img alt="Connect on LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Lana_Mustafic-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  ‎ ‎ ‎ ‎ ‎
-  <a href="https://lana-mustafic.github.io/portfolio/">
-    <img alt="View My Portfolio" title="View My Portfolio" src="https://img.shields.io/badge/Portfolio-View_Online-6A0DAD?style=flat-square&logo=read-the-docs&logoColor=white"/>
-  </a>
-</p>
+*   🔍 **I'm looking for:** Full-time roles, Internships, or Collaborative projects in **Full-Stack Development**.
+*   📫 **How to reach me:** 
+    [![Email](https://img.shields.io/badge/Email-Lana-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lana-mustafic@outlook.com)
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lana-mustafic)
+*   💼 **View my resume:** 
+    [![Portfolio](https://img.shields.io/badge/Resume-Portfolio-FFB6C1?style=for-the-badge&logo=readthedocs&logoColor=white)](https://lana-mustafic.github.io/portfolio/)
 
-<p align="center"><b>Let's connect and discuss how we can create impactful software together!</b></p>
+Let's connect and discuss how we can create impactful software together!
 
 ---
 
