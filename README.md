@@ -7,7 +7,7 @@ I'm a **4th Year Software Engineering Student** and an **Aspiring Full Stack Dev
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <!-- Backend -->
@@ -29,7 +29,7 @@ I'm a **4th Year Software Engineering Student** and an **Aspiring Full Stack Dev
 </p>
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <a href="https://github.com/lana-mustafic">
@@ -42,7 +42,7 @@ I'm a **4th Year Software Engineering Student** and an **Aspiring Full Stack Dev
 
 ---
 
-## 🌱 I'm Currently Learning
+## I'm Currently Learning
 
 *   Advanced architectural patterns in **.NET 8** (Microservices, Clean Architecture)
 *   Deepening my knowledge of **Angular** performance optimization and state management.
@@ -50,15 +50,15 @@ I'm a **4th Year Software Engineering Student** and an **Aspiring Full Stack Dev
 
 ---
 
-## 🤝 Let's Build Something Amazing
+## Let's Build Something Amazing
 
 I'm actively looking for opportunities to contribute to innovative projects, collaborate with other developers, and kick-start my professional career.
 
-*   🔍 **I'm looking for:** Full-time roles, Internships, or Collaborative projects in **Full-Stack Development**.
-*   📫 **How to reach me:** 
+* **I'm looking for:** Full-time roles, Internships, or Collaborative projects in **Full-Stack Development**.
+* **How to reach me:** 
     [![Email](https://img.shields.io/badge/Email-Lana-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lana-mustafic@outlook.com)
     [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lana-mustafic)
-*   💼 **View my resume:** 
+* **View my resume:** 
     [![Portfolio](https://img.shields.io/badge/Resume-Portfolio-FFB6C1?style=for-the-badge&logo=readthedocs&logoColor=white)](https://lana-mustafic.github.io/portfolio/)
 
 Let's connect and discuss how we can create impactful software together!
