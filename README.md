@@ -53,11 +53,22 @@ I'm a **4th Year Software Engineering Student** and an **Aspiring Full Stack Dev
 
 ## 🤝 Let's Build Something Amazing
 
-I'm actively looking for opportunities to contribute to innovative projects, collaborate with other developers, and kick-start my professional career.
+I'm actively seeking opportunities to contribute to innovative projects, collaborate with other developers, and launch my professional career.
 
-*   🔍 **I’m looking for:** Full-time roles, Internships, or Collaborative projects in **Full-Stack Development**.
-*   📫 **How to reach me:** [Email](mailto:lana-mustafic@outlook.com) or [LinkedIn](https://linkedin.com/in/lana-mustafic)
-*   💼 **View my resume:** [https://lana-mustafic.github.io/portfolio/]
+**🔍 What I'm Looking For:**
+
+[![Full-Time Roles](https://img.shields.io/badge/Full_Time-Roles-8A2BE2?style=for-the-badge&logo=bookmark&logoColor=white)](https://)
+[![Internships](https://img.shields.io/badge/Internships-Open-FF69B4?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://)
+[![Collaborative Projects](https://img.shields.io/badge/Collab-Projects-228B22?style=for-the-badge&logo=git&logoColor=white)](https://)
+in **Full-Stack Development**.
+
+**📬 How to Reach Me:**
+
+[![Email](https://img.shields.io/badge/Email-Lana_Mustafic-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lana-mustafic@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lana-mustafic)
+
+**📄 My Credentials:**
+[![Resume / Portfolio](https://img.shields.io/badge/Resume-View_Portfolio-6A0DAD?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://lana-mustafic.github.io/portfolio/)
 
 Let's connect and discuss how we can create impactful software together!
 
