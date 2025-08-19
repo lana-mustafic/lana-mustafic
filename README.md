@@ -53,44 +53,35 @@ I'm a **4th Year Software Engineering Student** and an **Aspiring Full Stack Dev
 
 ## 🤝 Let's Build Something Amazing
 
-I'm actively looking for opportunities to contribute to innovative projects, collaborate with other developers, and kick-start my professional career.
+I'm actively looking for opportunities to contribute to innovative projects, collaborate with other developers, and kick-start my professional career in **Full-Stack Development**.
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <h3>🔍 I'm Looking For</h3>
-      <a href="https://">
-        <img src="https://img.shields.io/badge/Full_Time-Roles-8A2BE2?style=for-the-badge&logo=bookmark&logoColor=white" />
-      </a>
-      <br />
-      <a href="https://">
-        <img src="https://img.shields.io/badge/Internships-Open-FF69B4?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-      </a>
-      <br />
-      <a href="https://">
-        <img src="https://img.shields.io/badge/Collab-Projects-228B22?style=for-the-badge&logo=git&logoColor=white" />
-      </a>
-      <p><sub>in <b>Full-Stack Development</b></sub></p>
-    </td>
-    <td align="center" width="33%">
-      <h3>📫 Reach Out</h3>
-      <a href="mailto:lana-mustafic@outlook.com">
-        <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-      </a>
-      <br />
-      <a href="https://linkedin.com/in/lana-mustafic">
-        <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <h3>💼 My Resume</h3>
-      <a href="https://lana-mustafic.github.io/portfolio/">
-        <img src="https://img.shields.io/badge/View_Online-Portfolio-6A0DAD?style=for-the-badge&logo=read-the-docs&logoColor=white" />
-      </a>
-      <p><sub></sub></p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <!--- Links to what you're looking for -->
+  <a href="https://">
+    <img alt="Seeking Full-Time Roles" title="Full-Time Roles" src="https://img.shields.io/badge/-Full%20Time-8A2BE2?style=flat-square&logo=bookmark&logoColor=white"/>
+  </a>
+  ‎ ‎ ‎ ‎ ‎ <!--- This is a trick to add space -->
+  <a href="https://">
+    <img alt="Open to Internships" title="Internships" src="https://img.shields.io/badge/-Internships-FF69B4?style=flat-square&logo=graduation-cap&logoColor=white"/>
+  </a>
+  ‎ ‎ ‎ ‎ ‎
+  <a href="https://">
+    <img alt="Open to Collaboration" title="Collaborative Projects" src="https://img.shields.io/badge/-Collaborate-228B22?style=flat-square&logo=git&logoColor=white"/>
+  </a>
+  <br/>
+  <!--- Contact Links -->
+  <a href="mailto:lana-mustafic@outlook.com">
+    <img alt="Email Lana Mustafic" title="Email Me" src="https://img.shields.io/badge/Email-lana--mustafic@outlook.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  ‎ ‎ ‎ ‎ ‎
+  <a href="https://linkedin.com/in/lana-mustafic">
+    <img alt="Connect on LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Lana_Mustafic-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  ‎ ‎ ‎ ‎ ‎
+  <a href="https://lana-mustafic.github.io/portfolio/">
+    <img alt="View My Portfolio" title="View My Portfolio" src="https://img.shields.io/badge/Portfolio-View_Online-6A0DAD?style=flat-square&logo=read-the-docs&logoColor=white"/>
+  </a>
+</p>
 
 <p align="center"><b>Let's connect and discuss how we can create impactful software together!</b></p>
 
