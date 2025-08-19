@@ -25,14 +25,14 @@ I'm a **4th Year Software Engineering Student** and an **Aspiring Full Stack Dev
 
 ---
 
-## GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/lana-mustafic">
-    <!-- GitHub Streak Stats - Customized for Pink Theme -->
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lana-mustafic&theme=default&hide_border=true&background=FFC2D120&fire=FF9EAA&ring=FF9EAA&currStreakNum=9D4EDD&sideLabels=9D4EDD&dates=6D6875" />
-    <!-- Top Languages Card - Using a light theme -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lana-mustafic&theme=default&hide_border=true&layout=compact&langs_count=8&hide=procfile&bg_color=FFC2D120&title_color=9D4EDD&text_color=6D6875" />
+    <!-- GitHub Streak Stats - Simplified -->
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lana-mustafic&theme=default&hide_border=true&background=FFC2D120&stroke=00000000&fire=000000&ring=000000&currStreakLabel=000000&dates=000000&sideLabels=000000" />
+    <!-- Top Languages Card - Simplified -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lana-mustafic&theme=default&hide_border=true&layout=compact&langs_count=8&hide=procfile&bg_color=FFC2D120&title_color=000000&text_color=000000" />
   </a>
 </p>
 
