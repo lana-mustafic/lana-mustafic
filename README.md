@@ -10,23 +10,19 @@ I'm a **4th Year Software Engineering Student** and an **Aspiring Full Stack Dev
 ## Tech Stack
 
 <p align="center">
-  <!-- Backend -->
   <img src="https://img.shields.io/badge/.NET-FFB6C1?style=for-the-badge&logo=dotnet&logoColor=black" alt=".NET" />
   <img src="https://img.shields.io/badge/C%23-FFB6C1?style=for-the-badge&logo=c-sharp&logoColor=black" alt="C#" />
   <img src="https://img.shields.io/badge/python-FFB6C1?style=for-the-badge&logo=python&logoColor=black" alt="Python" />
-  <br />
-  <!-- Frontend -->
   <img src="https://img.shields.io/badge/angular-FFB6C1?style=for-the-badge&logo=angular&logoColor=black" alt="Angular" />
   <img src="https://img.shields.io/badge/typescript-FFB6C1?style=for-the-badge&logo=typescript&logoColor=black" alt="TypeScript" />
   <img src="https://img.shields.io/badge/html5-FFB6C1?style=for-the-badge&logo=html5&logoColor=black" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-FFB6C1?style=for-the-badge&logo=css3&logoColor=black" alt="CSS3" />
-  <br />
-  <!-- Databases & Tools -->
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-FFB6C1?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=black" alt="MSSQL" />
   <img src="https://img.shields.io/badge/git-FFB6C1?style=for-the-badge&logo=git&logoColor=black" alt="Git" />
   <img src="https://img.shields.io/badge/docker-FFB6C1?style=for-the-badge&logo=docker&logoColor=black" alt="Docker" />
   <img src="https://img.shields.io/badge/TensorFlow-FFB6C1?style=for-the-badge&logo=tensorflow&logoColor=black" alt="TensorFlow" />
 </p>
+
 ---
 
 ## GitHub Stats
