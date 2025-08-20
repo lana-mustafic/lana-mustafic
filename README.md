@@ -25,7 +25,7 @@ I'm a **4th Year Software Engineering Student** and an **Aspiring Full Stack Dev
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <a href="https://github.com/lana-mustafic">
