@@ -15,6 +15,7 @@ I'm a **4th Year Software Engineering Student** and an **Aspiring Full Stack Dev
   <img src="https://img.shields.io/badge/python-FFB6C1?style=for-the-badge&logo=python&logoColor=black" alt="Python" />
   <img src="https://img.shields.io/badge/angular-FFB6C1?style=for-the-badge&logo=angular&logoColor=black" alt="Angular" />
   <img src="https://img.shields.io/badge/typescript-FFB6C1?style=for-the-badge&logo=typescript&logoColor=black" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-FFB6C1?style=for-the-badge&logo=nextdotjs&logoColor=black" alt="Next.js" />
   <img src="https://img.shields.io/badge/html5-FFB6C1?style=for-the-badge&logo=html5&logoColor=black" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-FFB6C1?style=for-the-badge&logo=css3&logoColor=black" alt="CSS3" />
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-FFB6C1?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=black" alt="MSSQL" />
