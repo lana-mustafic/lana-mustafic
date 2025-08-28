@@ -52,4 +52,4 @@ Let's connect and discuss how we can create impactful software together!
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=lana-mustafic&color=FF9EAA&style=flat-square)
 
-*Thanks for visiting my profile!* 😊
+*Thanks for visiting my profile!* 
