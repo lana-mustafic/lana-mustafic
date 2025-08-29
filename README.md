@@ -22,6 +22,9 @@ I'm a **4th Year Software Engineering Student** and an **Aspiring Full Stack Dev
   <img src="https://img.shields.io/badge/git-FFB6C1?style=for-the-badge&logo=git&logoColor=black" alt="Git" />
   <img src="https://img.shields.io/badge/docker-FFB6C1?style=for-the-badge&logo=docker&logoColor=black" alt="Docker" />
   <img src="https://img.shields.io/badge/TensorFlow-FFB6C1?style=for-the-badge&logo=tensorflow&logoColor=black" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Jupyter-FFB6C1?style=for-the-badge&logo=jupyter&logoColor=black" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Arduino-FFB6C1?style=for-the-badge&logo=arduino&logoColor=black" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-FFB6C1?style=for-the-badge&logo=raspberrypi&logoColor=black" alt="Raspberry Pi" />
 </p>
 
 
