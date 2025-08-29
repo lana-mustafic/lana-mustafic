@@ -12,6 +12,7 @@ I'm a **4th Year Software Engineering Student** and an **Aspiring Full Stack Dev
 <p align="center">
   <img src="https://img.shields.io/badge/.NET-FFB6C1?style=for-the-badge&logo=dotnet&logoColor=black" alt=".NET" />
   <img src="https://img.shields.io/badge/C%23-FFB6C1?style=for-the-badge&logo=c-sharp&logoColor=black" alt="C#" />
+  <img src="https://img.shields.io/badge/C++-FFB6C1?style=for-the-badge&logo=cplusplus&logoColor=black" alt="C++" />
   <img src="https://img.shields.io/badge/python-FFB6C1?style=for-the-badge&logo=python&logoColor=black" alt="Python" />
   <img src="https://img.shields.io/badge/angular-FFB6C1?style=for-the-badge&logo=angular&logoColor=black" alt="Angular" />
   <img src="https://img.shields.io/badge/typescript-FFB6C1?style=for-the-badge&logo=typescript&logoColor=black" alt="TypeScript" />
