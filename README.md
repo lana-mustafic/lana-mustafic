@@ -10,23 +10,24 @@ I'm a **4th Year Software Engineering Student** and an **Aspiring Full Stack Dev
 ## Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/.NET-FFB6C1?style=for-the-badge&logo=dotnet&logoColor=black" alt=".NET" />
-  <img src="https://img.shields.io/badge/C%23-FFB6C1?style=for-the-badge&logo=c-sharp&logoColor=black" alt="C#" />
-  <img src="https://img.shields.io/badge/C++-FFB6C1?style=for-the-badge&logo=cplusplus&logoColor=black" alt="C++" />
-  <img src="https://img.shields.io/badge/python-FFB6C1?style=for-the-badge&logo=python&logoColor=black" alt="Python" />
-  <img src="https://img.shields.io/badge/angular-FFB6C1?style=for-the-badge&logo=angular&logoColor=black" alt="Angular" />
-  <img src="https://img.shields.io/badge/typescript-FFB6C1?style=for-the-badge&logo=typescript&logoColor=black" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Next.js-FFB6C1?style=for-the-badge&logo=nextdotjs&logoColor=black" alt="Next.js" />
-  <img src="https://img.shields.io/badge/html5-FFB6C1?style=for-the-badge&logo=html5&logoColor=black" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-FFB6C1?style=for-the-badge&logo=css3&logoColor=black" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-FFB6C1?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=black" alt="MSSQL" />
-  <img src="https://img.shields.io/badge/git-FFB6C1?style=for-the-badge&logo=git&logoColor=black" alt="Git" />
-  <img src="https://img.shields.io/badge/docker-FFB6C1?style=for-the-badge&logo=docker&logoColor=black" alt="Docker" />
-  <img src="https://img.shields.io/badge/TensorFlow-FFB6C1?style=for-the-badge&logo=tensorflow&logoColor=black" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Jupyter-FFB6C1?style=for-the-badge&logo=jupyter&logoColor=black" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Arduino-FFB6C1?style=for-the-badge&logo=arduino&logoColor=black" alt="Arduino" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-FFB6C1?style=for-the-badge&logo=raspberrypi&logoColor=black" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/.NET-555555?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/C%23-555555?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C++-555555?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-555555?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Angular-555555?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/TypeScript-555555?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-555555?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/HTML5-555555?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-555555?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-555555?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="MSSQL" />
+  <img src="https://img.shields.io/badge/Git-555555?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-555555?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/TensorFlow-555555?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Jupyter-555555?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Arduino-555555?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-555555?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
 </p>
+
 
 
 ---
