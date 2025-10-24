@@ -45,7 +45,7 @@
 
 | Type | Description | Links |
 |------|--------------|-------|
-| 🗂️ **ToDoSolution** | Full-stack task management app built with **.NET 8** and **Angular 20**. Features authentication, CRUD, tagging, priorities, and Dockerized deployment. | <a href="#"><img src="https://skillicons.dev/icons?i=vercel" width="36" title="Live Demo"/></a> <a href="https://github.com/lana-mustafic/ToDoSolution"><img src="https://skillicons.dev/icons?i=github" width="36" title="GitHub Repo"/></a> |
+| 🗂️ **BetterMe** | Full-stack task management app built with **.NET 8** and **Angular 20**. Features authentication, CRUD, tagging, priorities, and Dockerized deployment. | <a href="#"><img src="https://skillicons.dev/icons?i=vercel" width="36" title="Live Demo"/></a> <a href="https://github.com/lana-mustafic/ToDoSolution"><img src="https://skillicons.dev/icons?i=github" width="36" title="GitHub Repo"/></a> |
 | 🏥 **eHospital** | Desktop + mobile hospital management system using **C#** and **Flutter**. Includes CRUD, reporting, and role-based access. | <a href="#"><img src="https://skillicons.dev/icons?i=vercel" width="36" title="Live Demo"/></a> <a href="#"><img src="https://skillicons.dev/icons?i=github" width="36" title="GitHub Repo"/></a> |
 | ⚙️ **Task Management API** | Secure **.NET 8 REST API** with JWT authentication, role-based authorization, and clean architecture principles. | <a href="#"><img src="https://skillicons.dev/icons?i=vercel" width="36" title="Live Demo"/></a> <a href="#"><img src="https://skillicons.dev/icons?i=github" width="36" title="GitHub Repo"/></a> |
 
