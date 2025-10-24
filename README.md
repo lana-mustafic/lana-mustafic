@@ -1,54 +1,78 @@
-### Hi there, I'm Lana 👋
+<div align="center" style="background-color:#0d1117; padding:40px 0; border-radius:12px;">
+  <img src="https://github.com/lana-mustafic/lana-mustafic/blob/main/assets/github-style.png"
+       width="250"
+       alt="GitHub Style Octocat"
+       style="margin-bottom:10px;" />
 
-**Junior Full-Stack Developer (.NET & Angular)**  
-*“Constantly improving and writing clean, maintainable code.”*
+  <h2 style="color:#f9d71c; margin:10px 0 0 0; font-size:38px;">Hi, I'm Lana!</h2>
+  <p style="color:#ffffff; font-size:18px; margin-top:10px; font-weight:500;">
+    Junior Full-Stack Developer (.NET & Angular)
+  </p>
+</div>
 
-I'm a soon-to-be Software Engineering graduate focusing on full-stack development with .NET and Angular. I love turning ideas and concepts into real, functional products, and I'm motivated by constant learning and self-improvement. I'm currently building personal projects to sharpen my skills and expand my portfolio. Although my main stack is .NET and Angular, I'm always open to exploring new languages, frameworks, and technologies that help me grow. Next step on my journey: pursuing a Master's degree and continuing to evolve as a developer.
+<br><br>
 
-### 🛠️ Tech Stack
+<h3 style="color:#f9d71c;">About Me</h3>
 
-**Backend:**  
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+- Soon-to-be **Software Engineering graduate** with a strong focus on **.NET** and **Angular** development.  
+- Currently enhancing my expertise in **.NET 8**, **Angular 20**, and **Docker**, while preparing to start my **Master’s degree** in Software Engineering.  
+- Exploring **clean architecture**, **API design**, and **deployment workflows** to build production-ready applications.  
+- Always eager to **expand my knowledge** beyond my current stack — open to learning new **languages**, **frameworks**, and **technologies** that challenge me to grow.  
 
-**Frontend:**  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+---
 
-**Tools:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<h3 style="color:#f9d71c;">Tech Stack</h3>
+<br><br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" height="40" alt=".NET" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40" alt="C#" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" />
+</p>
+<br><br/>
 
+---
 
-### Featured Project
+<h3 style="color:#f9d71c;">Featured Projects</h3>
 
-#### **ToDoSolution**  
-*Full-stack To-Do web app built with .NET 8 Web API and Angular 20. Includes JWT-based authentication, task CRUD features, and Dockerized deployment setup.*
+| Type | Description | Links |
+|------|--------------|-------|
+| 🗂️ **ToDoSolution** | Full-stack task management app built with **.NET 8** and **Angular 20**. Features authentication, CRUD, tagging, priorities, and Dockerized deployment. | <a href="#"><img src="https://skillicons.dev/icons?i=vercel" width="36" title="Live Demo"/></a> <a href="https://github.com/lana-mustafic/ToDoSolution"><img src="https://skillicons.dev/icons?i=github" width="36" title="GitHub Repo"/></a> |
+| 🏥 **eHospital** | Desktop + mobile hospital management system using **C#** and **Flutter**. Includes CRUD, reporting, and role-based access. | <a href="#"><img src="https://skillicons.dev/icons?i=vercel" width="36" title="Live Demo"/></a> <a href="#"><img src="https://skillicons.dev/icons?i=github" width="36" title="GitHub Repo"/></a> |
+| ⚙️ **Task Management API** | Secure **.NET 8 REST API** with JWT authentication, role-based authorization, and clean architecture principles. | <a href="#"><img src="https://skillicons.dev/icons?i=vercel" width="36" title="Live Demo"/></a> <a href="#"><img src="https://skillicons.dev/icons?i=github" width="36" title="GitHub Repo"/></a> |
 
-**Key Features:**  
-- ✅ JWT Authentication (Login/Register)  
-- ✅ CRUD operations for tasks  
-- ✅ Tags / categories / priorities  
-- ✅ Drag & drop  
-- ✅ Reminders / deadlines  
-- ✅ Filtering and sorting  
-- ✅ Responsive UI  
-- ✅ Deployment with Docker  
-- ✅ Database with EF Core & SQL Server  
+---
+<br><br/>
+<div align="center" style="margin-top: 40px;">
 
-**Tech Stack:** .NET 8, C#, Angular 20, TypeScript, SQL Server, Docker  
+  <h3 style="color:#f9d71c; margin-bottom: 16px;">Connect with Me</h3>
 
-**Architecture:** Backend (API + Database) + Frontend (Angular SPA)
+  <a href="mailto:lana-mustafic@outlook.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/lana-mustafic" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/lana-mustafic" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub"/>
+  </a>
 
-**Links:**  
-[🌐 Live Demo](#) • [💻 Repository](https://github.com/lana-mustafic/ToDoSolution)
+  <br><br>
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=lana-mustafic&color=FF9EAA&style=flat-square)
+  <img 
+    src="https://komarev.com/ghpvc/?username=lana-mustafic&label=Profile%20Views&color=f9d71c&labelColor=0d1117&style=for-the-badge" 
+    alt="Profile Views" 
+    style="margin-top: 12px; border-radius: 8px; box-shadow: 0 0 10px rgba(249, 215, 28, 0.3);" 
+  />
 
-
-
-*Thanks for visiting my profile!* 
+</div>
