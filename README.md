@@ -15,7 +15,7 @@
 <h3 style="color:#f9d71c;">About Me</h3>
 
 - Soon-to-be **Software Engineering graduate** with a strong focus on **.NET** and **Angular** development.  
-- Currently enhancing my expertise in **.NET 8**, **Angular 20**, and **Docker**, while preparing to start my **Master’s degree** in Software Engineering.  
+- Currently enhancing my expertise in **.NET**, **Angular**, and **Docker**, while preparing to start my **Master’s degree** in Software Engineering.  
 - Exploring **clean architecture**, **API design**, and **deployment workflows** to build production-ready applications.  
 - Always eager to **expand my knowledge** beyond my current stack — open to learning new **languages**, **frameworks**, and **technologies** that challenge me to grow.  
 
@@ -45,8 +45,8 @@
 
 | Type | Description | Links |
 |------|--------------|-------|
-| 🗂️ **BetterMe** | Full-stack task management app built with **.NET 8** and **Angular 20**. Features authentication, CRUD, tagging, priorities, and Dockerized deployment. | <a href="#"><img src="https://skillicons.dev/icons?i=vercel" width="36" title="Live Demo"/></a> <a href="https://github.com/lana-mustafic/ToDoSolution"><img src="https://skillicons.dev/icons?i=github" width="36" title="GitHub Repo"/></a> |
-| 🏥 **eHospital** | Desktop + mobile hospital management system using **C#** and **Flutter**. Includes CRUD, reporting, and role-based access. | <a href="#"><img src="https://skillicons.dev/icons?i=vercel" width="36" title="Live Demo"/></a> <a href="#"><img src="https://skillicons.dev/icons?i=github" width="36" title="GitHub Repo"/></a> |
+| 🗂️ **BetterMe** | Full-stack Task Management App built with .NET 8, Angular 20, and SQL Server — featuring secure JWT authentication, task CRUD operations, and Dockerized deployment setup. | <a href="#"><img src="https://skillicons.dev/icons?i=vercel" width="36" title="Live Demo"/></a> <a href="https://github.com/lana-mustafic/BetterMe"><img src="https://skillicons.dev/icons?i=github" width="36" title="GitHub Repo"/></a> |
+| 🏥 **eHospital** | Full-stack Hospital Management System built with .NET 8, Angular, and SQL Server — includes patient, doctor, appointment, and medication management. | <a href="#"><img src="https://skillicons.dev/icons?i=vercel" width="36" title="Live Demo"/></a> <a href="https://github.com/lana-mustafic/eHospital"><img src="https://skillicons.dev/icons?i=github" width="36" title="GitHub Repo"/></a> |
 | ⚙️ **Task Management API** | Secure **.NET 8 REST API** with JWT authentication, role-based authorization, and clean architecture principles. | <a href="#"><img src="https://skillicons.dev/icons?i=vercel" width="36" title="Live Demo"/></a> <a href="#"><img src="https://skillicons.dev/icons?i=github" width="36" title="GitHub Repo"/></a> |
 
 ---
