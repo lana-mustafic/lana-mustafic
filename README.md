@@ -45,15 +45,14 @@
 
 | Project | Description | Links |
 |--------|-------------|-------|
-| 🗂️ **BetterMe** | Full-stack Task Management App built with .NET 8, Angular 20, and SQL Server — featuring secure JWT authentication, task CRUD operations, and Dockerized deployment setup. | <a href="#"><img src="https://skillicons.dev/icons?i=vercel" width="36" title="Live Demo"/></a> <a href="https://github.com/lana-mustafic/BetterMe"><img src="https://skillicons.dev/icons?i=github" width="36" title="GitHub Repo"/></a> |
-| 🏥 **eHospital** | Full-stack Hospital Management System built with .NET 8, Angular, and SQL Server — includes patient, doctor, appointment, and medication management. | <a href="#"><img src="https://skillicons.dev/icons?i=vercel" width="36" title="Live Demo"/></a> <a href="https://github.com/lana-mustafic/eHospital"><img src="https://skillicons.dev/icons?i=github" width="36" title="GitHub Repo"/></a> |
-| 💆‍♀️ **NuaSpa** | Full-stack **Spa Management Platform** with **Admin Web App** and **Mobile Client App** — built with .NET 8 API backend, Angular admin dashboard, and Flutter mobile client. Supports service booking, categories, images, authentication & roles. | **Admin:** <a href="https://github.com/lana-mustafic/NuaSpa-admin"><img src="https://skillicons.dev/icons?i=github" width="36" title="Admin GitHub Repo"/></a> &nbsp;&nbsp; **Mobile:** <a href="https://github.com/lana-mustafic/NuaSpa-mobile"><img src="https://skillicons.dev/icons?i=github" width="36" title="Mobile GitHub Repo"/></a> |
+| **BetterMe** | Full-stack Task Management App built with .NET 8, Angular 20, and SQL Server — featuring secure JWT authentication, task CRUD operations, and Dockerized deployment setup. | <a href="#"><img src="https://skillicons.dev/icons?i=vercel" width="36" title="Live Demo"/></a> <a href="https://github.com/lana-mustafic/BetterMe"><img src="https://skillicons.dev/icons?i=github" width="36" title="GitHub Repo"/></a> |
+| **eHospital** | Full-stack Hospital Management System built with .NET 8, Angular, and SQL Server — includes patient, doctor, appointment, and medication management. | <a href="#"><img src="https://skillicons.dev/icons?i=vercel" width="36" title="Live Demo"/></a> <a href="https://github.com/lana-mustafic/eHospital"><img src="https://skillicons.dev/icons?i=github" width="36" title="GitHub Repo"/></a> |
+| **NuaSpa** | Full-stack **Spa Management Platform** with **Admin Web App** and **Mobile Client App** — built with .NET 8 API backend, Angular admin dashboard, and Flutter mobile client. Supports service booking, categories, images, authentication & roles. | <a href="https://github.com/lana-mustafic/NuaSpa-admin"><img src="https://skillicons.dev/icons?i=github" width="36" title="Admin GitHub Repo"/></a> &nbsp;&nbsp; <a href="https://github.com/lana-mustafic/NuaSpa-mobile"><img src="https://skillicons.dev/icons?i=github" width="36" title="Mobile GitHub Repo"/></a> |
 
 ---
 <br><br/>
 
 <div align="center" style="margin-top: 40px;">
-
   <h3 style="color:#f9d71c; margin-bottom: 16px;">Connect with Me</h3>
 
   <a href="mailto:lana-mustafic@outlook.com" target="_blank">
@@ -67,6 +66,11 @@
   <a href="https://github.com/lana-mustafic" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://portfolio-lana-mustafic.vercel.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" alt="Portfolio Website"/>
+  </a>
+
 
   <br><br>
 
