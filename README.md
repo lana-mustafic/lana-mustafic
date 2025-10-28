@@ -47,10 +47,11 @@
 |------|--------------|-------|
 | 🗂️ **BetterMe** | Full-stack Task Management App built with .NET 8, Angular 20, and SQL Server — featuring secure JWT authentication, task CRUD operations, and Dockerized deployment setup. | <a href="#"><img src="https://skillicons.dev/icons?i=vercel" width="36" title="Live Demo"/></a> <a href="https://github.com/lana-mustafic/BetterMe"><img src="https://skillicons.dev/icons?i=github" width="36" title="GitHub Repo"/></a> |
 | 🏥 **eHospital** | Full-stack Hospital Management System built with .NET 8, Angular, and SQL Server — includes patient, doctor, appointment, and medication management. | <a href="#"><img src="https://skillicons.dev/icons?i=vercel" width="36" title="Live Demo"/></a> <a href="https://github.com/lana-mustafic/eHospital"><img src="https://skillicons.dev/icons?i=github" width="36" title="GitHub Repo"/></a> |
-| ⚙️ **Task Management API** | Secure **.NET 8 REST API** with JWT authentication, role-based authorization, and clean architecture principles. | <a href="#"><img src="https://skillicons.dev/icons?i=vercel" width="36" title="Live Demo"/></a> <a href="#"><img src="https://skillicons.dev/icons?i=github" width="36" title="GitHub Repo"/></a> |
+| 💆‍♀️ **NuaSpa** | Full-stack **Spa Management Platform** with **multi-client architecture** — Admin Dashboard (Angular + .NET 8 API) and Mobile Client App (Flutter). Features service management, bookings, categories, authentication & roles. | **Admin:** <a href="https://github.com/lana-mustafic/NuaSpa-admin"><img src="https://skillicons.dev/icons?i=angular" width="36" title="Admin Web App"/></a>  **Mobile:** <a href="https://github.com/lana-mustafic/NuaSpa-mobile"><img src="https://skillicons.dev/icons?i=flutter" width="36" title="Mobile App"/></a> |
 
 ---
 <br><br/>
+
 <div align="center" style="margin-top: 40px;">
 
   <h3 style="color:#f9d71c; margin-bottom: 16px;">Connect with Me</h3>
@@ -70,9 +71,9 @@
   <br><br>
 
   <img 
-    src="https://komarev.com/ghpvc/?username=lana-mustafic&label=Profile%20Views&color=f9d71c&labelColor=0d1117&style=for-the-badge" 
+    src="https://komarev.com/ghpvc/?username=lana-mustafic&label=Profile%20Views&color=555555&labelColor=0d1117&style=for-the-badge" 
     alt="Profile Views" 
-    style="margin-top: 12px; border-radius: 8px; box-shadow: 0 0 10px rgba(249, 215, 28, 0.3);" 
+    style="margin-top: 12px; border-radius: 8px;" 
   />
 
 </div>
