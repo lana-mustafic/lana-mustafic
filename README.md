@@ -43,11 +43,11 @@
 
 <h3 style="color:#f9d71c;">Featured Projects</h3>
 
-| Type | Description | Links |
-|------|--------------|-------|
+| Project | Description | Links |
+|--------|-------------|-------|
 | 🗂️ **BetterMe** | Full-stack Task Management App built with .NET 8, Angular 20, and SQL Server — featuring secure JWT authentication, task CRUD operations, and Dockerized deployment setup. | <a href="#"><img src="https://skillicons.dev/icons?i=vercel" width="36" title="Live Demo"/></a> <a href="https://github.com/lana-mustafic/BetterMe"><img src="https://skillicons.dev/icons?i=github" width="36" title="GitHub Repo"/></a> |
 | 🏥 **eHospital** | Full-stack Hospital Management System built with .NET 8, Angular, and SQL Server — includes patient, doctor, appointment, and medication management. | <a href="#"><img src="https://skillicons.dev/icons?i=vercel" width="36" title="Live Demo"/></a> <a href="https://github.com/lana-mustafic/eHospital"><img src="https://skillicons.dev/icons?i=github" width="36" title="GitHub Repo"/></a> |
-| 💆‍♀️ **NuaSpa** | Full-stack **Spa Management Platform** with **multi-client architecture** — Admin Dashboard (Angular + .NET 8 API) and Mobile Client App (Flutter). Features service management, bookings, categories, authentication & roles. | **Admin:** <a href="https://github.com/lana-mustafic/NuaSpa-admin"><img src="https://skillicons.dev/icons?i=angular" width="36" title="Admin Web App"/></a>  **Mobile:** <a href="https://github.com/lana-mustafic/NuaSpa-mobile"><img src="https://skillicons.dev/icons?i=flutter" width="36" title="Mobile App"/></a> |
+| 💆‍♀️ **NuaSpa** | Full-stack **Spa Management Platform** with **Admin Web App** and **Mobile Client App** — built with .NET 8 API backend, Angular admin dashboard, and Flutter mobile client. Supports service booking, categories, images, authentication & roles. | **Admin:** <a href="https://github.com/lana-mustafic/NuaSpa-admin"><img src="https://skillicons.dev/icons?i=github" width="36" title="Admin GitHub Repo"/></a> &nbsp;&nbsp; **Mobile:** <a href="https://github.com/lana-mustafic/NuaSpa-mobile"><img src="https://skillicons.dev/icons?i=github" width="36" title="Mobile GitHub Repo"/></a> |
 
 ---
 <br><br/>
