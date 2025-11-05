@@ -5,39 +5,42 @@
        style="margin-bottom:10px;" />
 
   <h2 style="color:#f9d71c; margin:10px 0 0 0; font-size:38px;">Hi, I'm Lana!</h2>
-  <p style="color:#ffffff; font-size:18px; margin-top:10px; font-weight:500;">
-    Junior Full-Stack Developer (.NET & Angular)
-  </p>
+<p style="color:#ffffff; font-size:18px; margin-top:10px; font-weight:500;">
+  Junior Full-Stack Developer (.NET, Angular & Flutter)
+</p>
 </div>
 
 <br><br>
 
 <h3 style="color:#f9d71c;">About Me</h3>
 
-- Soon-to-be **Software Engineering graduate** with a strong focus on **.NET** and **Angular** development.  
-- Currently enhancing my expertise in **.NET**, **Angular**, and **Docker**, while preparing to start my **Master’s degree** in Software Engineering.  
+- Soon-to-be **Software Engineering graduate** with a strong focus on **.NET**, **Angular**, and **Flutter** development.  
+- Currently enhancing my expertise in **.NET**, **Angular**, **Flutter**, and **Docker**, while preparing to start my **Master’s degree** in Software Engineering.  
 - Exploring **clean architecture**, **API design**, and **deployment workflows** to build production-ready applications.  
 - Always eager to **expand my knowledge** beyond my current stack — open to learning new **languages**, **frameworks**, and **technologies** that challenge me to grow.  
+
 
 ---
 
 <h3 style="color:#f9d71c;">Tech Stack</h3>
 <br><br/>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" height="40" alt=".NET" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40" alt="C#" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" height="40" alt=".NET" title=".NET" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40" alt="C#" title="C#" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" title="Angular" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="VS Code" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio" title="Visual Studio" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" title="SQL Server" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" height="40" alt="RabbitMQ" title="RabbitMQ" />
 </p>
 <br><br/>
+
 
 ---
 
