@@ -58,7 +58,7 @@
 ---
 <br><br/>
 
-[![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=lana-mustafic&theme=dark)](https://leetcode.com/lana-mustafic/)
+[![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=lana-mustafic&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=FFA116)](https://leetcode.com/lana-mustafic/)
 
 ---
 
