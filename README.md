@@ -80,6 +80,8 @@
 
   <br><br>
 
+  [![LeetCode Stats](https://leetcode.card.workers.dev/?username=lana-mustafic)](https://leetcode.com/lana-mustafic/)
+
   <img 
     src="https://komarev.com/ghpvc/?username=lana-mustafic&label=Profile%20Views&color=555555&labelColor=0d1117&style=for-the-badge" 
     alt="Profile Views" 
