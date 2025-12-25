@@ -58,6 +58,10 @@
 ---
 <br><br/>
 
+[![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=lana-mustafic&theme=dark)](https://leetcode.com/lana-mustafic/)
+
+---
+
 <div align="center" style="margin-top: 40px;">
   <h3 style="color:#f9d71c; margin-bottom: 16px;">Connect with Me</h3>
 
@@ -80,7 +84,6 @@
 
   <br><br>
 
-  [![LeetCode Stats](https://leetcode.card.workers.dev/?username=lana-mustafic)](https://leetcode.com/lana-mustafic/)
 
   <img 
     src="https://komarev.com/ghpvc/?username=lana-mustafic&label=Profile%20Views&color=555555&labelColor=0d1117&style=for-the-badge" 
