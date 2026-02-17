@@ -57,10 +57,6 @@
 <br><br/>
 ---
 
-[![LeetCode Stats](https://leetcode.card.workers.dev/?username=lana-mustafic)](https://leetcode.com/lana-mustafic/)
-
-
----
 
 <div align="center" style="margin-top: 40px;">
   <h3 style="color:#f9d71c; margin-bottom: 16px;">Connect with Me</h3>
