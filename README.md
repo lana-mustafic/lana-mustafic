@@ -15,9 +15,7 @@
 <h3 style="color:#f9d71c;">About Me</h3>
 
 - Soon-to-be **Software Engineering graduate** with a strong focus on **.NET**, **Angular**, and **Flutter** development.  
-- Currently enhancing my expertise in **.NET**, **Angular**, **Flutter**, and **Docker**, while preparing to start my **Master’s degree** in Software Engineering.  
-- Exploring **clean architecture**, **API design**, and **deployment workflows** to build production-ready applications.  
-- Always eager to **expand my knowledge** beyond my current stack — open to learning new **languages**, **frameworks**, and **technologies** that challenge me to grow.  
+- Always eager to **expand my knowledge** beyond my current stack - open to learning new **languages**, **frameworks**, and **technologies** that challenge me to grow.  
 
 
 ---
@@ -51,7 +49,7 @@
 |--------|-------------|-------|
 | **BetterMe** | Full-stack Task Management App built with .NET 8, Angular 20, and SQL Server — featuring secure JWT authentication, task CRUD operations, and Dockerized deployment setup. | <a href="https://github.com/lana-mustafic/BetterMe"><img src="https://skillicons.dev/icons?i=github" width="36" title="GitHub Repo"/></a> |
 | **eHospital** | Full-stack Hospital Management System built with .NET 8, Angular, and SQL Server — includes patient, doctor, appointment, and medication management. | <a href="https://github.com/lana-mustafic/eHospital"><img src="https://skillicons.dev/icons?i=github" width="36" title="GitHub Repo"/></a> |
-| **NuaSpa** | Full-stack **Spa Management Platform** with **Admin Web App** and **Mobile Client App** — built with .NET 8 API backend, Angular admin dashboard, and Flutter mobile client. Supports service booking, categories, images, authentication & roles. | <a href="https://github.com/lana-mustafic/NuaSpa-Backend"><img src="https://skillicons.dev/icons?i=github" width="36" title="Admin GitHub Repo"/></a> &nbsp;&nbsp; <a href="https://github.com/lana-mustafic/NuaSpa-App"><img src="https://skillicons.dev/icons?i=github" width="36" title="Mobile GitHub Repo"/></a> |
+| **NuaSpa** | Full-stack **Spa Management Platform** with **Admin Web App** and **Mobile Client App** — built with .NET 8 API backend, Angular admin dashboard, and Flutter mobile client. Supports service booking, categories, images, authentication & roles. | <a href="https://github.com/lana-mustafic/NuaSpa-Backend"><img src="https://skillicons.dev/icons?i=github" width="36" title="Desktop GitHub Repo"/></a> &nbsp;&nbsp; <a href="https://github.com/lana-mustafic/NuaSpa-App"><img src="https://skillicons.dev/icons?i=github" width="36" title="Mobile GitHub Repo"/></a> |
 
 
 <br><br/>
